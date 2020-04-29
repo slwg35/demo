@@ -1,14 +1,52 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Modlist": [
+    {
+      "ModSection": "Widebody",
+      "ModDescription": "Modifying your car or truck doesn't have to cost a lot or take up a lot of your time. We have many inexpensive, easy to install products that can provide protection for your vehicle, and make it look better and be more enjoyable to drive.",
+      "ModAvgTime": "1 week",
+      "ModImage": "https://libertywalk.co.jp/wp-content/uploads/slider30/_ARY3010-2_72dpi.jpeg",
+      "ModSite": "https://libertywalk.co/product/infiniti-g37-body-kit-stance/",
+      "ModVideo": "https://www.youtube.com/watch?v=76PjWmE3KxM"            
+    },
+    {
+      "ModSection": "Exhaust",
+      "ModDescription": "A performance exhaust frees up some of the power in your engine, allowing for a quicker, more efficient path for exhaust gases to escape. This allows your engine to breathe better, and therefore create more power.",
+      "ModAvgTime": "2 hours",
+      "ModImage": "https://www.armytrixusa.com//images/NI35T-QT11B.jpg",
+      "ModSite": "https://www.armytrixusa.com/-p-150904728.html?gclid=CjwKCAjwqJ_1BRBZEiwAv73uwL8s5fsQ_oQS57e2wFx682eVP4ZE5B9MoJj1Mqq-3jPkYDxyVN7XxBoCVwgQAvD_BwE",
+      "ModVideo": "https://www.youtube.com/watch?v=TcsZuMOq8oo"            
+    },
+    {
+      "ModSection": "Brakes",
+      "ModDescription": "A braking system consists of several components that must work together with the highest level of integration and efficiency possible to ensure reliability, comfort and durability over time.",
+      "ModAvgTime": "4 hours",
+      "ModImage": "https://www.fluidmotorunion.com/wp-content/uploads/2018/03/IMG_6656.jpg",
+      "ModSite": "https://www.r1concepts.com/bbk",
+      "ModVideo": "https://www.youtube.com/watch?v=J-Lpf_7-hJM"            
+    },
+    {
+      "ModSection": "Forced induction",
+      "ModDescription": "A turbocharger is a component comprised of a turbine and air compressor which is used to harness the waste exhaust gases emitted from an engine. It forces more air into the cylinders, helping the engine to produce more power.",
+      "ModAvgTime": "1-2 weeks",
+      "ModImage": "https://www.holtsauto.com/redex/wp-content/uploads/sites/3/2017/12/Fotolia_170743204_S.jpg",
+      "ModSite": "https://www.holtsauto.com/redex/news/what-is-a-turbo-engine-and-how-does-it-work/",
+      "ModVideo": "https://www.youtube.com/watch?v=qflXbvaT8YI"            
+    },
+    {
+      "ModSection": "Suspension",
+      "ModDescription": "Suspension Upgrades can come in a number of different components and the overall aims is normally to reduce ride height, to improve the centre of gravity, improve transitional weight transfer rates under acceleration, deceleration and cornering loads.",
+      "ModAvgTime": "3 hours",
+      "ModImage": "https://thebuildjournal.com/wp-content/uploads/2014/07/bmw-335i-coilover-install-diy-1.jpg",
+      "ModSite": "https://www.fitmentindustries.com/store/36097/bc-racing-br-series-coilovers",
+      "ModVideo": "https://www.youtube.com/watch?v=utvDiA2GU0g"            
+    },
+    {
+      "ModSection": "Interior",
+      "ModDescription": "The interior accessories are not necessary but they can help to protect certain things in your car or are just to make you more comfortable in your vehicle. These auto accessories include, dash covers, seat covers, mirrors, shifters etc.",
+      "ModAvgTime": "< 1 hour",
+      "ModImage": "https://i.ytimg.com/vi/eqkWPNb_IjQ/maxresdefault.jpg",
+      "ModSite": "https://www.carid.com/dash-kits.html",
+      "ModVideo": "https://www.youtube.com/watch?v=u3TYSzDsZZA"            
+    }
+  ]
 }
